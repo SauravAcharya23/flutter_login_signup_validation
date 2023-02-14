@@ -1,8 +1,22 @@
-# auth_firebase
+# Login Signup Ui with proper validation
 
 A new Flutter project.
 
 ## Getting Started
+Download the code and open in editing studio and 
+
+
+# Run 
+flutter pub get 
+
+in terminal 
+
+# form_field_validator package 
+is used in this code to validate
+
+![Screenshot_1676341493](https://user-images.githubusercontent.com/124651720/218625095-90122ba2-ea15-4968-9afb-6d54ed02d32d.png)
+
+
 
 This project is a starting point for a Flutter application.
 
